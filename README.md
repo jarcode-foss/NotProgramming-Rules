@@ -19,21 +19,19 @@ The general theme of discussion matches that of ##programming:
   * Paste text > 2 lines to a site such as http://ideone.com or http://hastebin.com
 * Be concise. Better discussions can form with more participants as a result of users making their points quickly.
 * No bigotry or disdainful behaviour; respect those who are not as knowledgable
-* No trash-talking channel participants
+* No trash-talking channel participants.
+* Strictly avoid confirmation, selection, and stereotype bias. Inability to avoid these pitfalls will result in the discussion being shut down, or the offending user(s) removed from the channel.
+* Be self aware and open minded. Do not enter a discussion if users are unwilling to change their stance.
 * Do not probe the entire channel. This includes:
   * Clearly provoking channel participants (even without explicit mentions) or programmers in general
     * would need to demonstrate that the offender is intentionally trying to insult, or start an argument.
   * Repeatedly trying to hire developers with insufficient information.
-  * Unmerited mindless comments
+  * Unmerited mindless comments; criticism must be made with reason.
     * Includes any blanket statement that does not accurately apply to the discussion topic, ie:
     * "Don't reinvent the wheel!"
     * "\<language-or-editor\> is crap!"
 * Do not threaten other users with moderation action if you are not responsible for managing the channel
   * If users are demonstrating that they are unaware of a rule, try to remind them kindly or ask for assistance from a channel operator.
-* Politics are allowed with caution:
-  * Strictly avoid confirmation, selection, and stereotype bias. Inability to avoid these pitfalls will result in the discussion being shut down, or the offending user(s) removed from the channel.
-  * Be self aware and open minded. Do not enter a political discussion if users are unwilling to change their stance.
-  * Baseless insults of parties, platforms, canditates, politicians, and ideologies is prohibited. Criticism must be made with reason.
 * No discussions about religion
   * This _includes_ all forms of creationism theory, whether it belongs to a specific religion or not.
 * Piracy discussions are permitted until people encourage others to engage in it
