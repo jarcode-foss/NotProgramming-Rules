@@ -35,7 +35,6 @@ The general theme of discussion matches that of ##programming:
   * Be self aware and open minded. Do not enter a political discussion if users are unwilling to change their stance.
   * Baseless insults of parties, platforms, canditates, politicians, and ideologies is prohibited. Criticism must be made with reason.
 * No discussions about religion
-  * This excludes discussions that may easily provoke creationist responses (ie. human nature, evolution, origin of the universe)
   * This _includes_ all forms of creationism theory, whether it belongs to a specific religion or not.
 * Piracy discussions are permitted until people encourage others to engage in it
 * 'do-my-homework/do-it-for-me' requests are discouraged. Effort is required on behalf of the user asking questions.
